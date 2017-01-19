@@ -4,4 +4,4 @@ Common, it's freaking 2017 already, and the lack of HTTPS support globally on th
 
 Let's be rational and simply say it (out loud):
 
-![Just Fucking Stop!]()
+![Just Fucking Stop!](https://raw.githubusercontent.com/rage-against/plain-http/master/stop.jpg)
