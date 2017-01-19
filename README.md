@@ -8,18 +8,18 @@ Let's be rational and simply say it (out loud):
 
 ## Why Plan HTTP connections are a problem?
  - You are not safe
- -- The data you send and receive online can be read by anyone between you and the website
+  - The data you send and receive online can be read by anyone between you and the website
  - Sites that does not enforce HTTPS don't care about your security
  
 ## How can I make the world a safer place?
  
  - If you're a Web Developer / or anyhow responsible for a website:
- -- Support HTTPS and take good care of your private key
- -- Enforce your users through HTTPS, no plain connection should be allowed.
+  - Support HTTPS and take good care of your private key
+  - Enforce your users through HTTPS, no plain connection should be allowed.
  - If you're a user (everybody is):
- -- Install chrome or firefox extensions that only allow you to browse on HTTPS sites.
- -- Refuse to no shop or type passwords or any sensitive information on non-secure websites.
- -- Publicly shame websites who does not support HTTPS.
+  - Install chrome or firefox extensions that only allow you to browse on HTTPS sites.
+  - Refuse to no shop or type passwords or any sensitive information on non-secure websites.
+  - Publicly shame websites who does not support HTTPS.
  
 ## Technical Resources
 - TBI
